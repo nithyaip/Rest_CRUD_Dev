@@ -15,7 +15,7 @@ public class Employee {
 	}
 	public Employee(String fristName, String lastName) {
 		this.fristName = fristName;
-		this.lastName = lastName;
+		this.lastName = lastName ;
 	}
 	
 	public String getFristName() {
